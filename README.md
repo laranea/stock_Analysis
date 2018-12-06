@@ -2,7 +2,7 @@
 
  Name: Topgyal Gurung
 
-Class: MAC 286-3018
+Class: MAC 286
 
 Group Project: n-Bar Rally/Decline Project
 
