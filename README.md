@@ -27,5 +27,7 @@ first download in your computer by cloning
 Then from terminal got to the directory,then go to stock_Analysis/src
 
 Command:
+
             $javac ProjectMain.java
+            
             $java ProjectMain
