@@ -19,3 +19,13 @@ load one stock or one index at a time into an array of Bars
 go through array from old to new day
 
 if pattern found, create a trade, then check winner or loser and record the data and move on
+
+TO COMPILE:
+
+first download in your computer by cloning
+
+Then from terminal got to the directory,then go to stock_Analysis/src
+
+Command:
+            $javac ProjectMain.java
+            $java ProjectMain
