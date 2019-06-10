@@ -22,7 +22,7 @@ TO COMPILE:
 
 first download in your computer by cloning
 
-Then from terminal got to the directory,then go to stock_Analysis/src
+Then from terminal go to the directory,then go to stock_Analysis/src
 
 Command:
 
