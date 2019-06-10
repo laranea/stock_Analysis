@@ -6,13 +6,11 @@ Class: MAC 286
 
 Group Project: n-Bar Rally/Decline Project
 
-Created by Topgyal Gurung on May 31st, 2017
-
-Copyright © 2017 Topgyal Gurung. All rights reserved
+Created on May 31st, 2017
 
 Description: 
 
-download all stocks from yah00(yahooData)
+download all stocks from yahoo(yahooData) https://finance.yahoo.com/
 
 load one stock or one index at a time into an array of Bars
 
